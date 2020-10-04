@@ -1,5 +1,5 @@
 * * *
-40/2020 Beginn die Veröffentlichungen mit der Cloud Datenbank [ninox](https://ninox.com/) zu reorganisieren. Inhalte werden später automatsiert als Mark Down bereitgestellt. Zwischenschritte und Learnings auf den Weg dahin geteilt.
+40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [ninox](https://ninox.com/) zu reorganisieren. Inhalte werden später automatsiert als Mark Down bereitgestellt. Zwischenschritte und Learnings auf den Weg dahin geteilt.
 * * *
 
 
