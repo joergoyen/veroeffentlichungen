@@ -1,3 +1,8 @@
+* * *
+40/2020 Beginn die Veröffentlichungen mit der Cloud Datenbank [ninox](https://ninox.com/) zu reorganisieren. Inhalte werden später automatsiert als Mark Down bereitgestellt. Zwischenschritte und Learnings auf den Weg dahin geteilt.
+* * *
+
+
 # Veröffentlichungen
 **Jörg Oyen schreibt**
 
@@ -75,7 +80,7 @@ Weitere Publishing Report Online Beiträge (Auszug):
 *   DIN 16511 Korrekturzeichnen für PDF Dokumente, 9/2008
 *   Medienbruch – ein deutsches (Un)wort und seine Bedeutung im Publishing Umfeld, 1/2009
 
-* * *
+
 
 # **tekom**
 
