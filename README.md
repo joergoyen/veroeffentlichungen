@@ -24,7 +24,7 @@ Archivierte Beiträge und Veröffentlichungen rund um Marketing Automatisierung.
 
 # Publishing Praxis 1999 – 2010
 
-Fachzeitschrift für digitalen Workflow, Medienproduktion und Digitaldruck.
+Fachzeitschrift für digitalen Workflow, Medienproduktion und Digitaldruck. [Seitenübersichten](https://www.slideshare.net/joergoyen/artikel-publishing-praxis-19992010)
 
 *   XPress-Marken in der Crossmedia-Produktion, Sonderheft 12/1999
 *   Automatisieren de luxe: Database-Publishing mit InDesign 9/2004
