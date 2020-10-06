@@ -14,9 +14,6 @@ Heute schreibt er mehr über Kommunikation mit und zwischen Menschen, die gemein
 
 Seit 2013 werden auf Portalen wie LinkedIn ([seven timer 4 your day 2/2017](https://www.linkedin.com/pulse/seven-timer-4-your-day-jörg-oyen/)), medium.com ([move publishing & communication to the next level 7/2014](https://medium.com/@joergoyen/database-publishing-evolution-de40b2c74195?source=your_stories_page-------------------------------------)) und experimentellen digitalen Formaten wie NOY, [path to the future 51.2017](https://www.oyen.de/2017/) Inhalte bereitgestellt. Die Texte reflektieren, wie Kommunikation zwischen Mensch, Menschen und Technik sich wandelt. Wie systemische, kulturelle, organisatorische Beschränkungen reduziert und Veränderung durch Verbesserung möglich wird.
 
-</header>
-
-<main> 
 
 # 1999 – 2016
 
