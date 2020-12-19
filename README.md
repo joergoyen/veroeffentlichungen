@@ -112,7 +112,7 @@ Die tekom ist ein Magazin für die technische Dokumentation ([wiki](https://de.w
 *   Veränderung im Publishing, priint:book 2013, ([toc-pdf](https://priint.com/assets/media/priint-book/priintbook-veraenderung-2012-index.pdf))
 *   Datenbankgestützte Layoutproduktion mit InDesign, [publisher.ch](http://publisher.ch/) 1/2005, ([web](http://publisher.ch/mobile/fachzeitschrift.php?t=Datenbankgestützte+Layoutproduktion+mit+InDesign&read_article=1412))
 *   [Quark7: Fleissige Biene oder eher ein stechlustiger Mosquito?](http://publisher.ch/publisher-archiv-detail-2.php?t=QuarkXPress+7%253A+Fleissige+Biene+oder+stechlustiger+Moskito&read_article=1255), [publisher.ch](http://publisher.ch/), 2/2006, ([pdf](http://publisher.ch/dynpg/upload/imgfile960.pdf?view))
-*   Entscheidungshilfe für Content-Management-Systeme: Webinhalte managen, [publisher.ch](http://publisher.ch/), 6/2006, ([pdf](http://publisher.ch/dynpg/upload/imgfile1099.pdf?view))
+*   Entscheidungshilfe für Content-Management-Systeme: Webinhalte managen, [publisher.ch](http://publisher.ch/), 6/2006, ([pdf](https://web.archive.org/web/20070202030054/http://www.publisher.ch/heft/066/webinhalte.pdf))
 
 # Erwähnungen und Teilbeiträge
 
