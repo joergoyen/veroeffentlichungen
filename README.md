@@ -1,4 +1,8 @@
 * * *
+30/2021 Neue Veröffentlichungen sind einzupflegen. Dabei stellt sich einige Fragen. Wie ging das noch? Was war die Idee? Ist die vorliegende Umsetzung ausreichend oder schon «over sized»?
+
+
+* * *
 40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [Ninox](https://ninox.com/) zu reorganisieren. Inhalte werden später automatsiert als [Markdown](https://markdown.de) bereitgestellt. Zwischenschritte und Learnings auf den Weg dahin geteilt.
 * * *
 
