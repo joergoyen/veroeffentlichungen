@@ -1,5 +1,5 @@
 * * *
-30/2021 Neue Veröffentlichungen sind einzupflegen. Dabei stellt sich einige Fragen. Wie ging das noch? Was war die Idee? Ist die vorliegende Umsetzung ausreichend oder schon «over sized»?
+30/2021 Neue Veröffentlichungen sind einzupflegen. Dabei stellt sich einige Fragen. Wie ging das noch? Was war die Idee? Ist die vorliegende Umsetzung ausreichend oder schon «over sized»? Was fehlt? Was kann weggelassen werden?
 
 
 * * *
