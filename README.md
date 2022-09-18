@@ -4,7 +4,7 @@
 
 
 * * *
-40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [Ninox](https://ninox.com/) zu reorganisieren. Inhalte werden später automatsiert als [Markdown](https://markdown.de) bereitgestellt. Zwischenschritte und Learnings auf den Weg dahin geteilt.
+40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [Ninox](https://ninox.com/) zu reorganisieren. -Inhalte werden später automatsiert als [Markdown](https://markdown.de) bereitgestellt.- Zwischenschritte und Learnings auf den Weg dahin geteilt. Share und rendern via Javascript von Linkendin Beiträgen via https://joergoyen.de/background/contributions.html ist einer weitere Zwischenstufe udn Zugleich Fortschritt.
 * * *
 
 
@@ -89,7 +89,7 @@ Weitere Publishing Report Online Beiträge (Auszug):
 
 
 
-# **tekom**
+# tekom 
 
 Die tekom ist ein Magazin für die technische Dokumentation ([wiki](https://de.wikipedia.org/wiki/Technische_Dokumentation)) in deutscher und englischer Sprache.
 
