@@ -4,7 +4,7 @@
 
 
 * * *
-40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [Ninox](https://ninox.com/) zu reorganisieren. ~~Inhalte werden später automatsiert als [Markdown](https://markdown.de) bereitgestellt.~~ Zwischenschritte und Learnings auf den Weg dahin geteilt. Share und rendern via Javascript von Linkendin Beiträgen via https://joergoyen.de/background/contributions.html ist einer weitere Zwischenstufe udn Zugleich Fortschritt.
+40/2020 Beginn meine Veröffentlichungen mit der Cloud Datenbank [Ninox](https://ninox.com/) zu reorganisieren. ~~Inhalte werden später automatsiert als [Markdown](https://markdown.de) bereitgestellt.~~ Zwischenschritte und Learnings auf den Weg dahin geteilt. Share und rendern via Javascript von Linkendin Beiträgen via https://joergoyen.de/backstage/contributions.html ist einer weitere Zwischenstufe udn Zugleich Fortschritt.
 * * *
 
 
