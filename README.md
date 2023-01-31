@@ -9,7 +9,9 @@
 
 
 # Veröffentlichungen
-**Jörg Oyen schreibt**
+**Jörg Oyen schreibt seit seiner Zeit kurz vor dem Abitur**
+
+Kurz? Nebenschulisch Werbetexte. In der Schule, mit Blick auf das Abitur, dem Wunsch des damaligen Direktors entsprechend, statt krasse Kunstwerke anzufertigen, eher verhaltene Texte zur Kunstgeschichte und Fragestellungen wie «Was wollte der Künstler uns damit mitteilen?». Rückblickend und Sachlich betrachtet alles eine Frage der Zeit und Kultur. Gut damals war Kunst eher etwas leidenschaftliches. Bedingt rational erklärbar.
 
 Seine ersten Veröffentlichungen in Fachmagazinen haben die Einführung von Schnittstellen Werkzeugen im Bereich des automatisierten Informationsaustausches in Layoutanwendungen für Print und Web Publishing, kurz [Database Publishing](https://de.wikipedia.org/wiki/Database_Publishing), Branchenübergreifend bekannt gemacht. [Database Publishing](https://de.wikipedia.org/wiki/Database_Publishing) bildet die Grundlage für Marketing Automatisierung.
 
