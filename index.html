@@ -261,8 +261,10 @@
   </footer>
 
   <script>
-    // Automatisches Datum im Footer
-    document.getElementById('updatedate').textContent = new Date().toLocaleDateString('de-DE');
+    // Letztes Änderungsdatum des Dokuments im Footer anzeigen
+    const lastModified = new Date(document.lastModified);
+    document.getElementById('updatedate').textContent =
+      lastModified.toLocaleDateString('de-DE');
   </script>
 </body>
 </html>
